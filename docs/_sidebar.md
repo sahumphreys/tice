@@ -1,8 +1,12 @@
 - [Course Welcome](course-welcome)
-- [Week 1 (May 9 - 15)](module-01)
-- [Week 2 (May 16 - 22)](module-02)
-- [Week 3 (May 23 - 29)](module-03)
-- [Week 4 (May 30 - Jun 5)](module-04)
+- [Admin](admin.md)
+- [Overview](overview.md)
+- [What is Action Research?](module-01)
+- [Research Design](module-02)
+- [Data Collection](module-03)
+- [Data Analysis](module-04)
+- [Writing up](#)
+  
 - **LMS Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://canvas.sfu.ca/courses/44038/assignments )
