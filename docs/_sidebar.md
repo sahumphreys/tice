@@ -7,7 +7,7 @@
 - [Data Analysis](module-04)
 - [Writing up](#)
   
-- **LMS Links**
+<!-- - **LMS Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)
 - [![Assignments Icon](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080)Assignments](https://canvas.sfu.ca/courses/44038/assignments )
 - [![Quizzes Icon](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080)Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)
@@ -19,4 +19,4 @@
 
 <form action="https://github.com/hibbitts-design/docsify-open-course-starter-kit/generate" target="_blank">
   <input type="submit" value="Use this Template on GitHub" style="cursor: pointer;margin-top:12px;padding:8px;background-color:#FFFFFF;border:1px solid #0374B5;border-radius:.25rem;color:#0374B5;display:inline-block;text-align:center;text-decoration:none;width:250px;-webkit-text-size-adjust:none;mso-hide:all;" />
-</form>
+</form> -->
