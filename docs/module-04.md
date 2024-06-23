@@ -1,4 +1,4 @@
-![Wireframe](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
+<!-- ![Wireframe](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
 
 # How to explore the problem space?
 
@@ -16,4 +16,4 @@
 [4-UP MOBILES + GRID](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Sketching%20Templates/sneakpeekit-4-mobiles)  
 
 ## Required Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a> -->

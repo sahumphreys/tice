@@ -11,23 +11,8 @@ This project is generously supported by [Computing At School](https://www.comput
 
 <!-- [filename](_media/example.md ':include') -->
 
-## Course syllabus
+## Register your interest
 
-[Provide the break down by time of what is involved (perhaps as an embedded file)]
+The TICE project is open to **all** currently active teachers in both primary and secondary.  To register your interest in TICE for the academic year 2024-2025 please complete the form [here](#).
 
 
-## Getting the most from online learning
-
-Taking on an additional commitment during a busy teaching schedule can be daunting.  Learning something new online can be a challenge.  We will be supporting you face to face as well as online but if you are new to online learning here are some links to help:
-
-- [8 Strategies for Getting the Most Out of an Online Class](https://www.northeastern.edu/graduate/blog/tips-for-taking-online-classes/)
-- [What Makes a Successful Online Learner?](https://careerwise.minnstate.edu/education/successonline.html)
-- [Student toolkit to help tackle remote learning](https://socialmediaforlearning.com/2020/03/22/guest-post-a-student-toolkit-to-help-you-tackle-remote-learning-written-by-students-for-students/)
-
-## TICE Supporters
-
-[Logos for both CAS and RPCERC]
-
-![](https://www.computingatschool.org.uk/images/caslogo.png)
-
-[Logo for RPCERC]

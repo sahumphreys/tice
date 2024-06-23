@@ -1,11 +1,19 @@
 - [Course Welcome](course-welcome)
-- [Admin](admin.md)
 - [Overview](overview.md)
+- [Before you begin](module-00)
 - [What is Action Research?](module-01)
 - [Research Design](module-02)
 - [Data Collection](module-03)
 - [Data Analysis](module-04)
 - [Writing up](#)
+- [Admin](admin.md)
+
+---
+<small>The TICE project is generously supported by:</small>
+
+![](https://www.computingatschool.org.uk/images/caslogo.png)
+
+RPCERC
   
 <!-- - **LMS Links**
 - [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/courses/44038/calendar)

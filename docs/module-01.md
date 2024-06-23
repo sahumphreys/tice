@@ -1,6 +1,6 @@
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
-## What is action research?
+## What is Action Research?
 
 **Action Research** is also known as **practictioner research**, a research-oriented activity designed to improve current practice.  The canonic definition in the educational context is provided by Carr and Kemmis (1986):
 
