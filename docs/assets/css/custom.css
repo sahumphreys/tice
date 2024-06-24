@@ -164,12 +164,12 @@ body .markdown-section {
     font-size: 18pt;
     border: 1px solid #336699;
     padding: 20px;
-    border-radius: 20px;
+    border-radius: 10px;
     margin: 10px;
     background-color: #336699;
     color: #efefef;
-    border-left: 4px solid #000;
-    border-right: 4px solid #000;
+    border-left: 8px solid #3c9;
+    border-right: 8px solid #3c9;
     
 }
 

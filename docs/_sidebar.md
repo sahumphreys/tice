@@ -3,6 +3,7 @@
 - [What is Action Research?](module-01)
 - [The Research Process](module-02)
 - [Formulating the question](module-03)
+- [Planning the intervention](module-04)
 - [Data Collection](module-05)
 - [Data Analysis](module-06)
 - [Writing up](module-07)
