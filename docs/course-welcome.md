@@ -1,4 +1,4 @@
-![Welcome sign](images/belinda-fewings-6wAGwpsXHE0-unsplash.jpg ':class=banner-image')
+![Welcome sign](images/welcome.png ':class=banner-image')
 
 # Welcome to Teacher Inquiry into Computing Education (TICE)
 
@@ -13,6 +13,10 @@ This project is generously supported by [Computing At School](https://www.comput
 
 ## Register your interest
 
-The TICE project is open to **all** currently active teachers in both primary and secondary.  To register your interest in TICE for the academic year 2024-2025 please complete the form [here](https://docs.google.com/forms/d/e/1FAIpQLSeRtUCSH4tbfIjMEIxdYFoqPWvv8L2TVky8Zh0bCl_ym8SbEg/viewform).
+The TICE project is open to **all** currently active teachers in both primary and secondary.  
+
+To register your interest in TICE for the academic year 2024-2025 please download the form using the button below:
+
+[Register your interest](https://docs.google.com/forms/d/e/1FAIpQLSeRtUCSH4tbfIjMEIxdYFoqPWvv8L2TVky8Zh0bCl_ym8SbEg/viewform ':class=button')
 
 

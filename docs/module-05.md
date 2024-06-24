@@ -1,5 +1,5 @@
 <div class="abstract">
-An introduction to the purpose of this section of the course
+Using good instruments and tools for data collection is essential to ensure the accuracy and reliability of your research findings. High-quality tools enable precise measurement and comprehensive data gathering, providing a solid foundation for analysis and interpretation. This, in turn, enhances the validity and credibility of your study's conclusions.
 </div>
 
 ---
@@ -93,7 +93,7 @@ Quantitative research allows you to confirm or test a hypothesis or theory or qu
 
 Qualitative research allows you to understand concepts or experiences.
 
-Some questions lend themselves to a mixture of the two, known as **Mixed Method Research**.
+Some questions lend themselves to a mixture of the two, known as **Mixed Method Research**.  It is highly likely, for this type of research being carried out here that you will be adopting a mixed method approach and will have a collection of both quantitative and qualitative data.
 
 ![](/images/types-of-data.jpg)
 

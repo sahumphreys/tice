@@ -1,5 +1,5 @@
 <div class="abstract">
-A neat introduction to the purpose of this section of the course
+Formulating a good research question is crucial as it guides the direction and focus of your study. A well-defined question helps clarify the purpose of the research, ensures that the investigation is manageable, and facilitates the collection of relevant data. Ultimately, it lays the foundation for meaningful and impactful findings.
 </div>
 
 ---
