@@ -13,6 +13,6 @@ This project is generously supported by [Computing At School](https://www.comput
 
 ## Register your interest
 
-The TICE project is open to **all** currently active teachers in both primary and secondary.  To register your interest in TICE for the academic year 2024-2025 please complete the form [here](#).
+The TICE project is open to **all** currently active teachers in both primary and secondary.  To register your interest in TICE for the academic year 2024-2025 please complete the form [here](https://docs.google.com/forms/d/e/1FAIpQLSeRtUCSH4tbfIjMEIxdYFoqPWvv8L2TVky8Zh0bCl_ym8SbEg/viewform).
 
 

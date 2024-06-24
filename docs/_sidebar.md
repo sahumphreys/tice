@@ -1,11 +1,12 @@
 - [Course Welcome](course-welcome)
 - [Overview](overview.md)
-- [Before you begin](module-00)
 - [What is Action Research?](module-01)
-- [Research Design](module-02)
-- [Data Collection](module-03)
-- [Data Analysis](module-04)
-- [Writing up](#)
+- [The Research Process](module-02)
+- [Formulating the question](module-03)
+- [Data Collection](module-05)
+- [Data Analysis](module-06)
+- [Writing up](module-07)
+- [FAQ](faq)
 - [Admin](admin.md)
 
 ---

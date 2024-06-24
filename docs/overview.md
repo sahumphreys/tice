@@ -33,7 +33,8 @@ The project is designed to work around you and the school year.  It can be hard 
 | June ||
 | July | Optional presentation of projects at the CAS National Conference |
 
-## Tips for Success
+
+<!-- ## Tips for Success
 
 Having run the project several times we have learned a few key things that will help you achieve success and get to the finish line:
 
@@ -50,4 +51,4 @@ It can be hard to find a "buddy" to work with you on your project especially whe
 ### Narrow your focus
 
 Some issues are just too big to tackle in the time available ...
-
+ -->
